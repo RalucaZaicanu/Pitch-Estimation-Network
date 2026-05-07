@@ -74,7 +74,7 @@ It includes:
 The full project report is available in:
 
 ```text
-docs/Zaicanu_PitchEstimation.pdf
+docs/PitchEstimation_Documentation.pdf
 ```
 
 The report includes:
@@ -167,13 +167,13 @@ pip install -r requirements.txt
 5. Run the training notebook first if you want to train the model:
 
 ```text
-Zaicanu_Antrenare_PitchEstimationNW.ipynb
+Training_PitchEstimationNW.ipynb
 ```
 
 6. Run the evaluation notebook to load the checkpoint and evaluate the model:
 
 ```text
-Zaicanu_Eval_PitchEstimationNW.ipynb
+Eval_PitchEstimationNW.ipynb
 ```
 
 ## Notes
