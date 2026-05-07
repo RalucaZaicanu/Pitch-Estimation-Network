@@ -35,7 +35,7 @@ Pitch-Estimation-Network/
 ### Training Notebook
 
 ```text
-notebooks/Zaicanu_Antrenare_PitchEstimationNW.ipynb
+notebooks/Training_PitchEstimationNW.ipynb
 ```
 
 This notebook contains the training pipeline for the pitch estimation network.
