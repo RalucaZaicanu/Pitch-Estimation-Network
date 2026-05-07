@@ -55,7 +55,7 @@ It includes:
 ### Evaluation Notebook
 
 ```text
-notebooks/Zaicanu_Eval_PitchEstimationNW.ipynb
+notebooks/Eval_PitchEstimationNW.ipynb
 ```
 
 This notebook is used to evaluate the trained model.
